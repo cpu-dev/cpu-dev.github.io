@@ -1,3 +1,5 @@
+<link rel="icon" href="/cpu-dev.ico" type="image/x-icon" />
+
 ## Welcome to cpu-dev page!
 
 ![logo](cpu-dev-kansei-with-name.png)
