@@ -1,5 +1,7 @@
 ## Welcome to cpu-dev page!
 
+![logo](cpu-dev-kansei-with-name.png)
+
 自作CPU研究会のページへようこそ。
 自作CPU研究会では、自作CPUに関心のある様々な人が集まって議論や情報共有をしています。
 
